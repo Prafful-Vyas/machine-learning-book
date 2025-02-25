@@ -39,3 +39,6 @@ doc/_build
 
 # Other
 .python-version
+
+# venv
+pyml-book
